@@ -32,7 +32,7 @@ We're currently using [Google Hangouts](https://hangouts.google.com/), and the c
 
 [Developer's Timeout Blog](https://medium.com/developers-timeout)
 
-[Twitter - @DevTimeout]()
+[Twitter - @DevTimeout](https://twitter.com/DevTimeout)
 
 [Slack Channel]() ?
 
