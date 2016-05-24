@@ -13,7 +13,7 @@ The Developer's Timeout aims to be a space for:
 
 ### Governance ###
 
-The Developer's Timeout Community is lead by its founders, which normally will have a vote for key decisions. But, as an open community, all interested members can and should contribute to the ideas and decisions.
+The Developer's Timeout Community is lead by its founders, which normally will have a vote for key decisions. But, as an open community, all interested members can and should contribute with ideas and ne part of the decisions.
 
 Founders:
 
