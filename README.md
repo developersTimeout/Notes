@@ -18,8 +18,8 @@ The Developer's Timeout Community is lead by its founders, which normally will h
 Founders:
 
 - [Márcio Azevedo](https://anoblequest.wordpress.com/)
-- [Miguel Alho]()
-- [Carlos Silva]()
+- [Miguel Alho](http://www.miguelalho.pt/)
+- [Carlos Silva](https://pt.linkedin.com/in/carlos-silva-21b5131)
 
 ### Web Talks ###
 
