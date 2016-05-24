@@ -23,10 +23,9 @@ Founders:
 
 ### Web Talks ###
 
-This Community promote's discussions on a month basis that occurs on a pre-defined schedule. The schedule will be available here and in our [Blog](https://medium.com/developers-timeout/).
-We're currently using [Google Hangouts](https://hangouts.google.com/), and the common format will be a set of speakers with a moderator. The community will have access to the public (near-live) stream and can add their own questions (via chat).
+This Community promote's discussions on a month basis that occurs on a pre-defined schedule (see [**Sessions**](Sessions.md)). The schedule will be available here and in our [Blog](https://medium.com/developers-timeout/).
 
-
+We're currently using [Google Hangouts](https://hangouts.google.com/) and the Community will have access to the public *live* stream (all inputs / questions can be added via chat).
 
 ### Resources ###
 
