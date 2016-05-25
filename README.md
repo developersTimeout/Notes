@@ -13,7 +13,7 @@ The [Developer's Timeout](https://medium.com/developers-timeout) aims to be a sp
 
 ### Governance ###
 
-The [Developer's Timeout](https://medium.com/developers-timeout) Community is lead by its founders, which normally will have a vote for key decisions. But, as an open community, all interested members can and should contribute with ideas and be part of the decisions.
+The [Developer's Timeout](https://medium.com/developers-timeout) is lead by its founders, which normally will have a vote for key decisions. But, as an open community, all interested members can and should contribute with ideas and be part of the decisions.
 
 Founders:
 
