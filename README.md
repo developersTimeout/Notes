@@ -4,16 +4,16 @@ This is a public repo to register the [Developer's Timeout](https://medium.com/d
 
 ### Mission ###
 
-The Developer's Timeout aims to be a space for:
+The [Developer's Timeout](https://medium.com/developers-timeout) aims to be a space for:
 
-- Sharing (Knowledge, Experiences, Ideas)
+- Sharing (Knowledge, Experiences, Ideas, ...)
 - Discussions (Tech, Business, Processes, Ideas, ...)
-- Interviews (Insights from Technical Leads / Experienced Engineers)
+- Interviews (Insights from Technical Leads, Experienced Engineers)
 - Other related topics
 
 ### Governance ###
 
-The Developer's Timeout Community is lead by its founders, which normally will have a vote for key decisions. But, as an open community, all interested members can and should contribute with ideas and ne part of the decisions.
+The [Developer's Timeout](https://medium.com/developers-timeout) Community is lead by its founders, which normally will have a vote for key decisions. But, as an open community, all interested members can and should contribute with ideas and be part of the decisions.
 
 Founders:
 
