@@ -41,7 +41,7 @@ We're currently using [Google Hangouts](https://hangouts.google.com/) and the Co
 
 [Slack Channel](developerstimeout.slack.com)
 
-**If you'd like to join just submit an [issue](/issues)!**
+**If you'd like to join just submit an [issue](../../issues)!**
 
 
 
