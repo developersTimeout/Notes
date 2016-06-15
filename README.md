@@ -39,7 +39,7 @@ We're currently using [Google Hangouts](https://hangouts.google.com/) and the Co
 
 [Twitter - @DevTimeout](https://twitter.com/DevTimeout)
 
-[Slack Channel](developerstimeout.slack.com)
+[Slack Channel](https://developerstimeout.slack.com/)
 
 **If you'd like to join our Slack Channel just submit an [issue](../../issues)!**
 
