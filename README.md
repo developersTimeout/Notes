@@ -29,7 +29,7 @@ The views and opinions expressed in these talks are those of the authors and do 
 
 ### Web Talks ###
 
-This Community promote's discussions on a month basis that occurs on a pre-defined schedule (see [**Sessions**](Sessions.md)). The schedule will be available [here](Sessions.md) and in our [Blog](https://medium.com/developers-timeout/).
+This Community promote's discussions on a monthly basis that occurs on a pre-defined schedule. The schedule will be available [here](Sessions.md) and in our [Blog](https://medium.com/developers-timeout/).
 
 We're currently using [Google Hangouts](https://hangouts.google.com/) and the Community will have access to the public *live stream* (all inputs / questions can be added via chat).
 
@@ -40,7 +40,8 @@ We're currently using [Google Hangouts](https://hangouts.google.com/) and the Co
 [Twitter - @DevTimeout](https://twitter.com/DevTimeout)
 
 [Slack Channel](developerstimeout.slack.com)
-To join submit an issue!
+
+**If you'd like to join just submit an issue!**
 
 
 
